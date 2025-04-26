@@ -23,12 +23,10 @@ Outside of my day-to-day, I'm passionate about exploring new web technologies, c
 <p><strong>Let's connect!</strong></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/stelioszacharioudakis">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/stelioszacharioudakis" style="display:inline-block; margin-right:8px; text-decoration:none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
-</p>
-<p>
-  <a href="mailto:sjzacha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-✉️-grey?logo=gmail" alt="Email" />
+  <a href="mailto:sjzacha@gmail.com" style="display:inline-block; text-decoration:none;">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28" />
   </a>
 </p>
