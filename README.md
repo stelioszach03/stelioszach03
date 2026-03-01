@@ -11,11 +11,11 @@ Computer Science student and engineer focused on production-grade backend system
 
 ## Selected Projects
 
-- [Aegis Graph Fraud GNN](https://github.com/stelioszach03/aegis-graph-fraud-gnn) — graph-native fraud scoring with hybrid ML/DL, FastAPI, Prometheus, Grafana
+- [Aegis Graph Fraud GNN](https://github.com/stelioszach03/graph-fraud-command-center) — graph-native fraud scoring with hybrid ML/DL, FastAPI, Prometheus, Grafana
 - [NYC Subway Anomaly Detection](https://github.com/stelioszach03/NYC-Subway-Anomaly-Detection) — GTFS-RT streaming + online ML + operations dashboard
 - [DoubleX Ledger](https://github.com/stelioszach03/doublex-ledger) — production-grade double-entry ledger with idempotency, FX, recon, and observability
 - [Limitforge RLS](https://github.com/stelioszach03/limitforge-rls) — multi-tenant rate limiting control plane with Redis+Lua
-- [Aegis De-ID](https://github.com/stelioszach03/aegis-deid) — PHI/PII de-identification for EL/EN text workflows
+- [Aegis De-ID](https://github.com/stelioszach03/deid-privacy-studio) — PHI/PII de-identification for EL/EN text workflows
 
 ## Live Portfolio
 
