@@ -1,32 +1,27 @@
-<!-- Profile README for stelioszach03 -->
-<p>
-  <strong style="font-size:1.5em;">Hi there!</strong>
-  <img
-    src="https://camo.githubusercontent.com/d04509037f646eab5c2d6d130574ef059fa8eef92e45a139a827a8d06e9d5042/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966"
-    alt="wave icon"
-    width="32"
-    style="vertical-align:middle; margin-left:0.2em;"
-  />
-</p>
-<p>
-I'm <strong>Stelios Zacharioudakis</strong>, a third-year Computer Science student at the National and Kapodistrian University of Athens and Head Engineer at the Medical Association of Paphos.
-</p>
-<p>
-I architect and maintain the Association's web & backend systems, and have built custom websites for medical professionals and university professors. My work focuses on delivering intuitive, secure, and scalable solutions that streamline healthcare workflows.
-</p>
-<p>
-Outside of my day-to-day, I'm passionate about exploring new web technologies, contributing to open-source projects, and crafting user-centric interfaces. In my free time I enjoy designing side projects, gaming, and diving into the latest developments in software engineering.
-</p>
+# Stelios Zacharioudakis
 
----
+Computer Science student and engineer focused on production-grade backend systems, applied machine learning, and observability-first architecture.
 
-<p><strong>Let's connect!</strong></p>
+## Focus Areas
 
-<p>
-  <a href="https://www.linkedin.com/in/stelioszacharioudakis" style="display:inline-block; margin-right:8px; text-decoration:none;">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
-  </a>
-  <a href="mailto:sjzacha@gmail.com" style="display:inline-block; text-decoration:none;">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28" />
-  </a>
-</p>
+- Real-time fraud and anomaly detection systems
+- Graph-based ML pipelines and explainable scoring
+- Reliable backend APIs with metrics, tracing, and CI/CD
+- End-to-end portfolio projects from data/modeling to deployment
+
+## Selected Projects
+
+- [Aegis Graph Fraud GNN](https://github.com/stelioszach03/aegis-graph-fraud-gnn) — graph-native fraud scoring with hybrid ML/DL, FastAPI, Prometheus, Grafana
+- [NYC Subway Anomaly Detection](https://github.com/stelioszach03/NYC-Subway-Anomaly-Detection) — GTFS-RT streaming + online ML + operations dashboard
+- [DoubleX Ledger](https://github.com/stelioszach03/doublex-ledger) — production-grade double-entry ledger with idempotency, FX, recon, and observability
+- [Limitforge RLS](https://github.com/stelioszach03/limitforge-rls) — multi-tenant rate limiting control plane with Redis+Lua
+- [Aegis De-ID](https://github.com/stelioszach03/aegis-deid) — PHI/PII de-identification for EL/EN text workflows
+
+## Live Portfolio
+
+- Website: [stelioszach.com](https://stelioszach.com)
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/stelioszacharioudakis](https://www.linkedin.com/in/stelioszacharioudakis)
+- Email: [sjzacha@gmail.com](mailto:sjzacha@gmail.com)
