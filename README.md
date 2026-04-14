@@ -61,10 +61,5 @@ I build production ML systems and conduct deep learning research — from trustw
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stelioszach03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stelioszach03&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelioszach03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <a href="https://stelioszach.com"><strong>stelioszach.com</strong></a> · <a href="https://www.linkedin.com/in/stylianos-georgios-zacharioudakis-47024428a"><strong>LinkedIn</strong></a> · <a href="mailto:stelios@stelioszach.com"><strong>stelios@stelioszach.com</strong></a>
 </p>
