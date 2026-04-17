@@ -160,13 +160,30 @@ SERIALIZABLE double-entry ledger. Idempotent postings, FX settlement, **94% cove
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛰️ [EuroSAT DL Benchmark](https://github.com/stelioszach03/eurosat-ssl-benchmark)
+**7 paradigms** compared: CNN, Transfer Learning, SimCLR, CLIP, LoRA. **98.37%** best accuracy.
+
+**LoRA:** 98.22% with only **0.36%** trainable params
+
+`PyTorch` `SimCLR` `CLIP` `LoRA` `EfficientNet`
+
+</td>
+<td width="50%" valign="top">
+
+*More projects at [stelioszach.com](https://stelioszach.com) — including clinic systems, medical association platforms, and ongoing research.*
+
+</td>
+</tr>
 </table>
 
 ---
 
 <div align="center">
 
-*Every project above is **deployed and live** on a Hetzner VPS with Docker, CI/CD, and Prometheus — not just code in a repo.*
+*Every project above is **deployed and live** — or fully reproducible with a single notebook. Not just code in a repo.*
 
 **[🌐 stelioszach.com](https://stelioszach.com)** · **[💼 LinkedIn](https://www.linkedin.com/in/stylianos-georgios-zacharioudakis-47024428a)** · **[📧 stelios@stelioszach.com](mailto:stelios@stelioszach.com)**
 
