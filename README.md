@@ -6,10 +6,10 @@
 
 BSc Computer Science · National & Kapodistrian University of Athens
 
-*Building production ML systems — not notebooks. Every project ships with Docker, CI, observability, and a live interactive demo.*
+*Building end-to-end ML systems with Docker, CI, observability, and live demos — from research to reproducible pipelines.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-stelioszach.com-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda)](https://stelioszach.com)
-[![Paper](https://img.shields.io/badge/Latest_Paper-CEGVR_(90.6%25)-8b2f20?style=for-the-badge&logo=arxiv&logoColor=white)](https://stelioszach.com/papers/cegvr-verifiable-reasoning.pdf)
+[![Paper](https://img.shields.io/badge/Preprint-CEGVR_90.6%25-8b2f20?style=for-the-badge&logo=arxiv&logoColor=white)](https://stelioszach.com/papers/cegvr-verifiable-reasoning.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stelios-zach)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stelios@stelioszach.com)
 
@@ -73,7 +73,7 @@ BSc Computer Science · National & Kapodistrian University of Athens
 
 ---
 
-### 🚀 Projects & Live Demos — 9 projects, all with interactive demos + CI pipelines
+### 🚀 Projects & Live Demos — 8 projects, all with live demos + CI pipelines
 
 <table>
 <tr>
