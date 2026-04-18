@@ -10,19 +10,23 @@ BSc Computer Science · National & Kapodistrian University of Athens
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-stelioszach.com-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda)](https://stelioszach.com)
 [![Paper](https://img.shields.io/badge/Latest_Paper-CEGVR_(90.6%25)-8b2f20?style=for-the-badge&logo=arxiv&logoColor=white)](https://stelioszach.com/papers/cegvr-verifiable-reasoning.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stylianos-georgios-zacharioudakis-47024428a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stelios-zach)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stelios@stelioszach.com)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=stelioszach03&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=stelioszach03&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%"/>
-
-<br>
-
-**Open to ML/DL roles in Canada** · Athens, Greece → Toronto
+**Open to junior ML / MLE roles** · 🇨🇦 Canadian work-authorized (open permit — no sponsorship needed) · Athens, Greece → Toronto
 
 </div>
+
+---
+
+### 💼 Experience
+
+| Role | Organization | Period | Impact |
+|:-----|:-------------|:-------|:-------|
+| Head Engineer | Paphos Medical Association | Jun 2022 – present | AsklepiosMed platform serving **480 doctors** · **99.5%** uptime over 12 months · deploy cycle 2 days → 15 minutes |
+| Full-Stack Engineer | Medihyal Clinic | Jan 2025 – present | Booking platform, **200+ monthly reservations** · Groq LLM integration reduced manual review time by **80%** |
 
 ---
 
@@ -60,16 +64,16 @@ BSc Computer Science · National & Kapodistrian University of Athens
 
 ### 📄 Research — 4 papers, all with code + reproducible pipelines
 
-| | Paper | Result | Links |
-|:--|:------|:-------|:------|
-| 🏆 | **CEGVR** — LLM + Z3 SMT Verifiable Reasoning | **90.6%** certified accuracy (+50 pts vs baseline) · 7 500 eval runs · Qwen3-30B on A100 | [📄 PDF](https://stelioszach.com/papers/cegvr-verifiable-reasoning.pdf) · [💻 Code](https://github.com/stelioszach03/llm-smt-verifiable-reasoning) · [🔬 Demo](https://stelioszach.com/llm-smt-verifiable-reasoning/) |
-| 🔭 | **DynaDiff-VLBI** — Dynamic Radio Interferometric Imaging | EHT benchmark · *Submitted to MNRAS* | [📄 PDF](https://stelioszach.com/papers/dynadiff-vlbi.pdf) · [💻 Code](https://github.com/stelioszach03/DynaDiff-VLBI) |
-| 🏥 | **TrustQueryNet** — Trustworthy Medical Image Classification | **83.5%** acc on HAM10000 · calibrated selective prediction · ConvNeXt-Tiny | [📄 PDF](https://stelioszach.com/papers/trustquerynet.pdf) · [💻 Code](https://github.com/stelioszach03/TrustQueryNet) |
-| ⚡ | **Speculative Decoding Study** — LLM Inference Optimization | **1.46×** speedup · vLLM + EAGLE-3 · A100 80 GB | [📄 PDF](https://stelioszach.com/papers/colab-speculative-decoding-speed-lab.pdf) · [💻 Code](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab) |
+| | Paper | Status | Result | Links |
+|:--|:------|:-------|:-------|:------|
+| 🔬 | **CEGVR** — LLM + Z3 SMT Verifiable Reasoning | Preprint · solo author | **90.6%** certified accuracy (+50 pts vs baseline) · 7 500 eval runs · Qwen3-30B-A3B on A100 | [📄 PDF](https://stelioszach.com/papers/cegvr-verifiable-reasoning.pdf) · [💻 Code](https://github.com/stelioszach03/llm-smt-verifiable-reasoning) · [🔬 Demo](https://stelioszach.com/llm-smt-verifiable-reasoning/) |
+| 🔭 | **DynaDiff-VLBI** — Dynamic Radio Interferometric Imaging | Submitted to MNRAS · co-authored | EHT benchmark · 3D U-Net with test-time optimization | [📄 PDF](https://stelioszach.com/papers/dynadiff-vlbi.pdf) · [💻 Code](https://github.com/stelioszach03/DynaDiff-VLBI) |
+| 🏥 | **TrustQueryNet** — Trustworthy Medical Image Classification | Preprint · solo author | **83.5%** acc on HAM10000 · calibrated selective prediction · ConvNeXt-Tiny | [📄 PDF](https://stelioszach.com/papers/trustquerynet.pdf) · [💻 Code](https://github.com/stelioszach03/TrustQueryNet) |
+| ⚡ | **Speculative Decoding Study** — LLM Inference Optimization | Preprint · solo author | **1.46×** speedup · vLLM + EAGLE-3 · A100 80 GB | [📄 PDF](https://stelioszach.com/papers/colab-speculative-decoding-speed-lab.pdf) · [💻 Code](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab) |
 
 ---
 
-### 🚀 Production Systems — 8 projects, all deployed with live interactive demos
+### 🚀 Projects & Live Demos — 9 projects, all with interactive demos + CI pipelines
 
 <table>
 <tr>
@@ -183,8 +187,8 @@ SERIALIZABLE double-entry ledger. Idempotent postings, FX settlement, **94% cove
 
 <div align="center">
 
-*Every project above is **deployed and live** — or fully reproducible with a single notebook. Not just code in a repo.*
+*Every project above has a live demo, CI pipeline, and reproducible setup.*
 
-**[🌐 stelioszach.com](https://stelioszach.com)** · **[💼 LinkedIn](https://www.linkedin.com/in/stylianos-georgios-zacharioudakis-47024428a)** · **[📧 stelios@stelioszach.com](mailto:stelios@stelioszach.com)**
+**[🌐 stelioszach.com](https://stelioszach.com)** · **[💼 LinkedIn](https://www.linkedin.com/in/stelios-zach)** · **[📧 stelios@stelioszach.com](mailto:stelios@stelioszach.com)**
 
 </div>
