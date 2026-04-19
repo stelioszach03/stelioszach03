@@ -67,7 +67,7 @@ BSc Computer Science · National & Kapodistrian University of Athens
 | | Paper | Status | Result | Links |
 |:--|:------|:-------|:-------|:------|
 | 🔬 | **CEGVR** — LLM + Z3 SMT Verifiable Reasoning | Manuscript · solo author | **90.6%** certified accuracy (+50 pts vs baseline) · 7 500 eval runs · Qwen3-30B-A3B on A100 | [📄 PDF](https://stelioszach.com/papers/cegvr-verifiable-reasoning.pdf) · [💻 Code](https://github.com/stelioszach03/llm-smt-verifiable-reasoning) · [🔬 Demo](https://stelioszach.com/llm-smt-verifiable-reasoning/) |
-| 🔭 | **DynaDiff-VLBI** — Dynamic Radio Interferometric Imaging | Manuscript v7 · co-authored · MNRAS submission planned | EHT benchmark · 3D U-Net with test-time optimization | [📄 PDF](https://stelioszach.com/papers/dynadiff-vlbi.pdf) · [💻 Code](https://github.com/stelioszach03/DynaDiff-VLBI) |
+| 🔭 | **DynaDiff-VLBI** — Dynamic Radio Interferometric Imaging | Manuscript · solo author | EHT benchmark · 3D U-Net with test-time optimization | [📄 PDF](https://stelioszach.com/papers/dynadiff-vlbi.pdf) · [💻 Code](https://github.com/stelioszach03/DynaDiff-VLBI) |
 | 🏥 | **TrustQueryNet** — Trustworthy Medical Image Classification | Manuscript · solo author | **83.5%** acc on HAM10000 · calibrated selective prediction · ConvNeXt-Tiny | [📄 PDF](https://stelioszach.com/papers/trustquerynet.pdf) · [💻 Code](https://github.com/stelioszach03/TrustQueryNet) |
 | ⚡ | **Speculative Decoding Study** — LLM Inference Optimization | Manuscript · solo author | **1.46×** speedup · vLLM + EAGLE-3 · A100 80 GB | [📄 PDF](https://stelioszach.com/papers/colab-speculative-decoding-speed-lab.pdf) · [💻 Code](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab) |
 
