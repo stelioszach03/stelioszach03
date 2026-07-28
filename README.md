@@ -18,16 +18,9 @@ BSc Computer Science · National & Kapodistrian University of Athens
 
 </div>
 
----
 
-### 💼 Experience
 
-| Role | Organization | Period | Impact |
-|:-----|:-------------|:-------|:-------|
-| Head Engineer | Paphos Medical Association | Jun 2022 – present | AsklepiosMed platform serving **480 doctors** · **99.5%** uptime over 12 months · deploy cycle 2 days → 15 minutes |
-| Full-Stack Engineer | Medihyal Clinic | Jan 2025 – present | Booking platform, **200+ monthly reservations** · Groq LLM integration reduced manual review time by **80%** |
 
----
 
 ### 🧠 ML / DL
 
