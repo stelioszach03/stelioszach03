@@ -169,7 +169,7 @@ SERIALIZABLE double-entry ledger. Idempotent postings, FX settlement, **94% cove
 </td>
 <td width="50%" valign="top">
 
-*More projects at [stelioszach.com](https://stelioszach.com) — including clinic systems, medical association platforms, and ongoing research.*
+
 
 </td>
 </tr>
@@ -181,6 +181,6 @@ SERIALIZABLE double-entry ledger. Idempotent postings, FX settlement, **94% cove
 
 *Every project above has a live demo, CI pipeline, and reproducible setup.*
 
-**[🌐 stelioszach.com](https://stelioszach.com)** · **[💼 LinkedIn](https://www.linkedin.com/in/stelios-zach)** · **[📧 stelios@stelioszach.com](mailto:stelios@stelioszach.com)**
+**[💼 LinkedIn](https://www.linkedin.com/in/stelios-zach)** · **[📧 stelios@stelioszach.com](mailto:stelios@stelioszach.com)**
 
 </div>
