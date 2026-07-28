@@ -15,7 +15,6 @@ BSc Computer Science · National & Kapodistrian University of Athens
 
 <br>
 
-**Open to junior ML / MLE roles** · 🇨🇦 Canadian work-authorized (open permit — no sponsorship needed) · Athens, Greece → Toronto
 
 </div>
 
