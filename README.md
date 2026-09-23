@@ -4,6 +4,12 @@ Machine learning research and software engineering, with a focus on world models
 
 [Portfolio](https://stelioszach.com/) · [CV](https://stelioszach.com/Stelios_Zacharioudakis_CV.pdf) · [Contact](mailto:stelios@stelioszach.com)
 
+## A short technical tour
+
+- **Research method:** [MRI thesis](https://stelioszach.com/#mri) — reimplementation, uncertainty and retrospective domain shift, with the original method credited.
+- **Inspectable implementation:** [DeID review case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/deid-review.md) — exact output reconstruction, Unicode-safe human review, runnable regressions and explicit accuracy limits.
+- **Operating a real service:** [AsklepiosMed case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md) — donated member-services software, access boundaries and recovery checks; private source and member data stay private.
+
 ## Live demos
 
 Open a working interface, then inspect the exact deployed adapter. Use the supplied synthetic examples; do not enter personal or confidential data.
@@ -11,11 +17,9 @@ Open a working interface, then inspect the exact deployed adapter. Use the suppl
 | Open the demo | What it demonstrates | Deployed source |
 | --- | --- | --- |
 | **[Constraint verifier](https://stelioszach.com/demos/smt-verify/)** | Z3 checks a structured answer; no paid language-model call | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/smt-verify) |
-| **[Text de-identification](https://stelioszach.com/demos/deid/)** | English entity detection and explicit transformations; review is required | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/deid) |
+| **[Text de-identification](https://stelioszach.com/demos/deid/)** | Inspect detections, apply/keep suggestions and manually redact missed spans; review remains required | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/deid) |
 | **[Transaction graph explorer](https://stelioszach.com/demos/fraud-graph/)** | Graph features and scoring on synthetic, rule-labelled transactions | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/fraud-graph) |
 | **[NYC subway monitor](https://stelioszach.com/demos/mta-scan/)** | Live public observations and a separate limited replay evaluation | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/mta-scan) |
-
-**Association platform:** [AsklepiosMed — public website](https://asklepiosmed.org/) · [Engineering case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md). Developed and donated as Head Engineer of the Paphos Medical Association, pro bono. Application source and member records remain private.
 
 ## Current work
 
