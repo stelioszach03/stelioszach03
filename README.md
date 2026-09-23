@@ -8,7 +8,7 @@ Machine learning research and software engineering, with a focus on world models
 
 - **Research method:** [MRI thesis](https://stelioszach.com/#mri) — reimplementation, uncertainty and retrospective domain shift, with the original method credited.
 - **Inspectable implementation:** [DeID review case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/deid-review.md) — exact output reconstruction, Unicode-safe human review, runnable regressions and explicit accuracy limits.
-- **Operating a real service:** [AsklepiosMed case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md) — donated member-services software, access boundaries and recovery checks; private source and member data stay private.
+- **Previous engineering work:** [AsklepiosMed case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md) — pro bono Head Engineer role, June 2022–July 2026; the case study documents current project capabilities separately. Private source and member data stay private.
 
 ## Live demos
 
@@ -21,13 +21,15 @@ Open a working interface, then inspect the exact deployed adapter. Use the suppl
 | **[Transaction graph explorer](https://stelioszach.com/demos/fraud-graph/)** | Graph features and scoring on synthetic, rule-labelled transactions | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/fraud-graph) |
 | **[NYC subway monitor](https://stelioszach.com/demos/mta-scan/)** | Live public observations and a separate limited replay evaluation | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/mta-scan) |
 
-## Current work
+## Research
 
 **World-model learning and evaluation — ongoing, unpublished research.** I investigate imagination horizons, critic stability and the relationship between internal model scores and policy performance. My work uses PyTorch, controlled simulator experiments, paired evaluation and explicit analysis of negative results. [Research overview](https://stelioszach.com/#world-models).
 
 **Score-based MRI reconstruction — BSc thesis.** Reimplementation of a published reconstruction method, pretrained checkpoint conversion, uncertainty analysis and retrospective domain-shift experiments. The original architecture and pretrained prior are credited to their authors; this is not a clinical system. [Thesis and methods](https://stelioszach.com/#mri) · [Thesis PDF](https://stelioszach.com/documents/zacharioudakis-bsc-thesis-2026.pdf).
 
-**AsklepiosMed — Head Engineer, Paphos Medical Association, pro bono.** I developed and donated the association's member-services platform, covering onboarding, publishing, events, digital credentials and confidential casework. The engineering work includes access controls, operational monitoring, encrypted backups and restoration checks. [Public platform](https://asklepiosmed.org/) · [Engineering case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md).
+## Previous experience
+
+**Former Head Engineer — Paphos Medical Association · June 2022–July 2026 · Pro bono.** I developed and donated AsklepiosMed to support the association's member services. My role ended in July 2026. The current platform, including subsequent development, is described separately in the case study. [Public platform](https://asklepiosmed.org/) · [Engineering case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md).
 
 ## Research code
 
