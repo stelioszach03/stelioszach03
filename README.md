@@ -7,13 +7,15 @@ Machine learning research and software engineering, with a focus on generative r
 ## Selected work
 
 - **[MRI reconstruction thesis](https://stelioszach.com/#mri)** — PyTorch reimplementation of a published method, pretrained checkpoint conversion, uncertainty analysis and retrospective domain shift. The original method and prior are credited. Negative acquisition results and clinical limitations remain part of the study. [Thesis PDF](https://stelioszach.com/documents/zacharioudakis-bsc-thesis-2026.pdf).
+- **[ForgeRL](https://github.com/stelioszach03/forgerl)** — a bounded Python repair workbench with 24 authored regression tasks, a finite fitted-Q routing controller, isolated execution and exported patches, test outcomes and accounting traces. Granite and GPT-OSS remain frozen; the project studies controller decisions, not language-model fine-tuning. Its small task suite does not establish general repair performance. [Live workbench](https://stelioszach.com/demos/forgerl/) · [Engineering case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/forgerl.md).
 - **[AsklepiosMed](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md)** — a donated medical-association platform. My pro bono Head Engineer role ran from June 2022 to July 2026; current capabilities, including subsequent development, are documented separately. Private application source and member data remain private. [Public association website](https://asklepiosmed.org/).
 - **[MTA-Scan](https://stelioszach.com/demos/mta-scan/)** — public NYC Subway feed observations, an interactive map, explicit freshness states and snapshot export. A separate constructed replay exposes sensitivity and false alarms; it is not official incident ground truth or validated incident prediction. [Deployed adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/mta-scan).
 
-## Two selected live demos
+## Three selected live demos
 
 | Open the interface | What to inspect | Deployed source |
 | --- | --- | --- |
+| **[ForgeRL](https://stelioszach.com/demos/forgerl/)** | Follow a recorded patch, compare public and held-out checks, inspect routing decisions and estimated cost; live requests depend on the finite inference allowance | [Standalone service and protocol](https://github.com/stelioszach03/forgerl) |
 | **[MTA-Scan](https://stelioszach.com/demos/mta-scan/)** | Filter live public observations, inspect a station and export a snapshot; keep constructed replay evaluation separate | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/mta-scan) |
 | **[DeID text review](https://stelioszach.com/demos/deid/)** — secondary tool | Review detections, keep or apply suggestions and redact missed spans; human review does not guarantee anonymity | [Adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/deid) |
 
