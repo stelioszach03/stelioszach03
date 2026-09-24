@@ -13,6 +13,8 @@ Machine learning research and software engineering, with a focus on generative r
 
 ## Three selected live demos
 
+**ForgeBench v0.2 study complete:** 300 evaluation episodes and 180 controller-training episodes; latest software release [v0.2.1](https://github.com/stelioszach03/forgerl/releases/tag/v0.2.1). The held-out test split covers two repository families. Provider failures are retained, and the results do not establish a general advantage for adaptive routing. [Technical report](https://forge.stelioszach.com/api/forgebench/download/technical-report.pdf) · [Evidence dashboard](https://forge.stelioszach.com/).
+
 | Open the interface | What to inspect | Deployed source |
 | --- | --- | --- |
 | **[ForgeRL / ForgeBench](https://stelioszach.com/demos/forgerl/)** | Compare recorded policies, filter the 50-task catalog and inspect complete trajectories, patches, tests and accounted cost; browsing makes no inference requests | [Standalone service and protocol](https://github.com/stelioszach03/forgerl) |
