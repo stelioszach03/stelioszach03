@@ -11,9 +11,15 @@ Machine learning research and software engineering, with a focus on generative r
 - **[AsklepiosMed](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md)** — a donated medical-association platform. My pro bono Head Engineer role ran from June 2022 to July 2026; current capabilities, including subsequent development, are documented separately. Private application source and member data remain private. [Public association website](https://asklepiosmed.org/).
 - **[MTA-Scan](https://stelioszach.com/demos/mta-scan/)** — public NYC Subway feed observations, an interactive map, explicit freshness states and snapshot export. A separate constructed replay exposes sensitivity and false alarms; it is not official incident ground truth or validated incident prediction. [Deployed adapter and UI](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/mta-scan).
 
-## Three selected live demos
+## Recorded research and systems evidence
+
+**[ForgeBench prospective transfer pilot](https://github.com/stelioszach03/forgerl/blob/main/artifacts/forgebench/v0.3-pilot1/report/pilot-report.md):** all 162 frozen episodes completed. On 18 primary tasks in six fresh families, supervised return solved 17; fitted-Q, strong-only and escalation solved 16; cheap and hand-written solved 15. One seed and small authored programs do not establish superiority. Shared VERIFY is not learned, and all failed final tests remain in the report.
+
+**[Inference Systems Lab — controlled GPU results](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab/blob/main/artifacts/controlled-pilot-v1/RESULTS.md):** 1,536 measured requests on one RTX 4090, three paired cache OFF/ON repeats, four concurrency levels and direct GPU telemetry. Raw evidence includes output mismatches; no lossless or answer-quality claim. **[MRI evidence package](https://github.com/stelioszach03/mri-reconstruction-evidence):** eight historical aggregate records with reproducible CPU tables/plots and a source-license audit; solver and medical data remain excluded.
 
 **ForgeBench v0.2 study complete:** 300 evaluation episodes and 180 controller-training episodes; latest software release [v0.2.1](https://github.com/stelioszach03/forgerl/releases/tag/v0.2.1). The held-out test split covers two repository families. Provider failures are retained, and the results do not establish a general advantage for adaptive routing. [Technical report](https://forge.stelioszach.com/api/forgebench/download/technical-report.pdf) · [Evidence dashboard](https://forge.stelioszach.com/).
+
+## Three selected live demos
 
 | Open the interface | What to inspect | Deployed source |
 | --- | --- | --- |
