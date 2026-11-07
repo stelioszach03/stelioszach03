@@ -2,11 +2,11 @@
 
 **Machine Learning Engineer · Reinforcement Learning · AI Agents · Self-Improving Systems**
 
-I build and evaluate systems that learn from feedback. My focus spans reinforcement learning, self-improving agents, continual learning and world models, alongside multilingual NLP, generative models and production software engineering.
+I build and deploy AI applications, learning agents and data pipelines. My work combines end-to-end production ownership with reinforcement learning, self-improving systems, multilingual NLP, deep learning and GPU inference engineering.
 
 [Portfolio](https://stelioszach.com/) · [Machine Learning CV](https://stelioszach.com/Stelios_Zacharioudakis_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/stelios-zach) · [Contact](mailto:stelios@stelioszach.com)
 
-## Selected engineering and research
+## Selected systems
 
 ### AsklepiosMed — Applied AI and production engineering
 
@@ -16,29 +16,29 @@ The current project includes **multilingual NLP workflows** for announcement dra
 
 [Engineering case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md) · [Public platform](https://asklepiosmed.org/)
 
-### Inference Systems Lab — 16,384 measured requests
-
-Designed and ran a controlled vLLM study across **RTX 4090 and A100 80GB**, two Qwen2.5 model sizes, cache modes, prefix patterns and four repeats. Published throughput, latency, GPU telemetry and exact-output comparisons. The original 1,536-request pilot remains separately documented. Output parity fails; measured throughput ratios are not lossless speedup or answer-quality claims.
-
-[Two-GPU results](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab/blob/main/artifacts/factorial-serving-v1/RESULTS.md) · [Source and reproduction](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab)
-
-### MRI reconstruction — PyTorch and generative models
-
-Reimplemented a published score-based reconstruction method, converted a pretrained Flax checkpoint and evaluated uncertainty and retrospective domain shift. The thesis reports reference PSNR agreement **within 0.15 dB on 256 BraTS slices** at 4×, 8× and 24× undersampling. The evidence companion adds reproducible tables, plots and independent CPU ensemble diagnostics. Original method and prior credited; no clinical validation.
-
-[Thesis and methods](https://stelioszach.com/#mri) · [Evidence and diagnostics](https://github.com/stelioszach03/mri-reconstruction-evidence)
-
 ### ForgeRL / ForgeBench — Inspectable LLM agent evaluation
 
 Built a sandboxed code-repair harness, durable spending controls and a trajectory explorer. The frozen transfer pilot records **162 episodes across 27 miniature tasks and six policies**; a separate four-seed follow-up records **1,296 attempts** on the exposed catalog. Prompts, patches, verification and costs remain inspectable. Language-model weights stay unchanged; the studies do not establish a general adaptive-routing advantage.
 
 [Live evidence explorer](https://stelioszach.com/demos/forgerl/) · [Source and protocol](https://github.com/stelioszach03/forgerl)
 
+### Inference Systems Lab — 16,384 measured requests
+
+Designed and ran a controlled vLLM study across **RTX 4090 and A100 80GB**, two Qwen2.5 model sizes, cache modes, prefix patterns and four repeats. Published throughput, latency, GPU telemetry and exact-output comparisons. The original 1,536-request pilot remains separately documented. Output parity fails; measured throughput ratios are not lossless speedup or answer-quality claims.
+
+[Two-GPU results](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab/blob/main/artifacts/factorial-serving-v1/RESULTS.md) · [Source and reproduction](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab)
+
 ### MTA-Scan — Live data and chronological evaluation
 
 Built public GTFS-Realtime ingestion, a FastAPI/Mapbox workspace, bounded historical storage and automated 15/30-minute proxy evaluation. **November 7, 2026 audit:** 44 verified daily exports, a rolling 28-day evaluation, 8,060 retained five-minute windows and 99.44% complete/fresh coverage. Forecasts are gated by history, comparable cohorts and freshness. The target is future feed-predicted arrival spacing, not observed train passages or validated incident detection.
 
 [Live monitor](https://stelioszach.com/demos/mta-scan/) · [Coverage audit](https://github.com/stelioszach03/NYC-Subway-Anomaly-Detection/blob/main/docs/COLLECTION_COVERAGE.md) · [Deployed source](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/mta-scan)
+
+### MRI reconstruction — PyTorch and generative models
+
+Reimplemented a published score-based reconstruction method, converted a pretrained Flax checkpoint and evaluated uncertainty and retrospective domain shift. The thesis reports reference PSNR agreement **within 0.15 dB on 256 BraTS slices** at 4×, 8× and 24× undersampling. The evidence companion adds reproducible tables, plots and independent CPU ensemble diagnostics. Original method and prior credited; no clinical validation.
+
+[Thesis and methods](https://stelioszach.com/#mri) · [Evidence and diagnostics](https://github.com/stelioszach03/mri-reconstruction-evidence)
 
 ## Background
 
