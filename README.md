@@ -1,8 +1,8 @@
 # Stelios Zacharioudakis
 
-**Machine Learning Engineer · Applied AI & Multilingual NLP · Deep Learning · ML Systems**
+**Machine Learning Engineer · Reinforcement Learning · AI Agents · Self-Improving Systems**
 
-I build, evaluate and deploy machine learning systems. My work connects production software ownership with LLM applications, PyTorch research, GPU inference and reproducible model evaluation.
+I build and evaluate systems that learn from feedback. My focus spans reinforcement learning, self-improving agents, continual learning and world models, alongside multilingual NLP, generative models and production software engineering.
 
 [Portfolio](https://stelioszach.com/) · [Machine Learning CV](https://stelioszach.com/Stelios_Zacharioudakis_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/stelios-zach) · [Contact](mailto:stelios@stelioszach.com)
 
@@ -44,9 +44,9 @@ Built public GTFS-Realtime ingestion, a FastAPI/Mapbox workspace, bounded histor
 
 **BSc in Computer Science — National and Kapodistrian University of Athens, June 2026.** Degree: Very Good. BSc thesis: Excellent, **10/10**; deposited September 2026.
 
-Ongoing independent research explores imagination horizons, critic stability and policy evaluation in latent world models. This work is unpublished and simulator-based.
+Ongoing independent research explores verifier-guided self-improvement and continual learning for coding agents, including task selection, procedural memory, retention and transfer. My world-model work studies imagination horizons, critic stability and policy evaluation. These research directions are unpublished; controlled evaluations and failed hypotheses remain part of the record.
 
-**ML & AI:** Python, PyTorch, NumPy, SciPy, scikit-learn, NLP, generative models, LLM integration, vLLM, reinforcement learning and experimental evaluation.
+**ML & AI:** Python, PyTorch, reinforcement learning, AI agents, world models, self-improvement experiments, NLP, generative models, vLLM, NumPy, SciPy, scikit-learn and experimental evaluation.
 
 **Engineering:** FastAPI, React, Node.js/Express, PostgreSQL, Redis, Linux, Docker, Git and automated testing.
 
