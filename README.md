@@ -4,7 +4,7 @@
 
 I owned AsklepiosMed from architecture through Linux deployment as pro bono Head Engineer. My ML work includes multilingual LLM workflows, reproducible coding-agent evaluation and controlled GPU inference benchmarks.
 
-[Portfolio](https://stelioszach.com/) · [CV](https://stelioszach.com/Stelios_Zacharioudakis_CV.pdf) · [ML Systems CV](https://stelioszach.com/Stelios_Zacharioudakis_Systems_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/stelios-zach) · [Contact](mailto:stelios@stelioszach.com)
+[Portfolio](https://stelioszach.com/) · [CV](https://stelioszach.com/cv/) · [LinkedIn](https://www.linkedin.com/in/stelios-zach) · [Contact](mailto:stelios@stelioszach.com)
 
 ## Selected systems
 
