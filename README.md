@@ -1,10 +1,10 @@
 # Stelios Zacharioudakis
 
-**Machine Learning Engineer · Reinforcement Learning · AI Agents · Self-Improving Systems**
+**Machine Learning Engineer | Applied AI & ML Systems**
 
-I build and deploy AI applications, learning agents and data pipelines. My work combines end-to-end production ownership with reinforcement learning, self-improving systems, multilingual NLP, deep learning and GPU inference engineering.
+I owned AsklepiosMed from architecture through Linux deployment as pro bono Head Engineer. My ML work includes multilingual LLM workflows, reproducible coding-agent evaluation and controlled GPU inference benchmarks.
 
-[Portfolio](https://stelioszach.com/) · [Machine Learning CV](https://stelioszach.com/Stelios_Zacharioudakis_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/stelios-zach) · [Contact](mailto:stelios@stelioszach.com)
+[Portfolio](https://stelioszach.com/) · [CV](https://stelioszach.com/Stelios_Zacharioudakis_CV.pdf) · [ML Systems CV](https://stelioszach.com/Stelios_Zacharioudakis_Systems_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/stelios-zach) · [Contact](mailto:stelios@stelioszach.com)
 
 ## Selected systems
 
