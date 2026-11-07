@@ -24,13 +24,13 @@ Built a sandboxed code-repair harness, durable spending controls and a trajector
 
 ### Inference Systems Lab — 16,384 measured requests
 
-Designed and ran a controlled vLLM study across **RTX 4090 and A100 80GB**, two Qwen2.5 model sizes, cache modes, prefix patterns and four repeats. Published throughput, latency, GPU telemetry and exact-output comparisons. The original 1,536-request pilot remains separately documented. Output parity fails; measured throughput ratios are not lossless speedup or answer-quality claims.
+Designed and ran a controlled vLLM study across **RTX 4090 and A100 80GB**, two Qwen2.5 model sizes and four repeats. Shared-prefix cached/uncached throughput ratios were **1.23–1.47× at concurrency 32**. Published throughput, latency, GPU telemetry and exact-output comparisons. The original 1,536-request pilot remains separately documented. Output parity fails; measured throughput ratios are not lossless speedup or answer-quality claims.
 
 [Two-GPU results](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab/blob/main/artifacts/factorial-serving-v1/RESULTS.md) · [Source and reproduction](https://github.com/stelioszach03/colab-speculative-decoding-speed-lab)
 
 ### MTA-Scan — Live data and chronological evaluation
 
-Built public GTFS-Realtime ingestion, a FastAPI/Mapbox workspace, bounded historical storage and automated 15/30-minute proxy evaluation. **November 7, 2026 audit:** 44 verified daily exports, a rolling 28-day evaluation, 8,060 retained five-minute windows and 99.44% complete/fresh coverage. Forecasts are gated by history, comparable cohorts and freshness. The target is future feed-predicted arrival spacing, not observed train passages or validated incident detection.
+Built public GTFS-Realtime ingestion, a FastAPI/Mapbox workspace, bounded historical storage and automated 15/30-minute proxy evaluation. **November 7, 2026 audit:** 44 verified daily exports, a rolling 28-day evaluation, 8,060 retained five-minute windows and 99.44% complete/fresh coverage. Forecasts are gated by history, comparable cohorts, freshness and evaluation age. A separate official MTA service-alert collector now archives revisions and supplies route-filtered context through a read-only API. The target is future feed-predicted arrival spacing, not observed train passages or validated incident detection.
 
 [Live monitor](https://stelioszach.com/demos/mta-scan/) · [Coverage audit](https://github.com/stelioszach03/NYC-Subway-Anomaly-Detection/blob/main/docs/COLLECTION_COVERAGE.md) · [Deployed source](https://github.com/stelioszach03/stelioszach-portfolio/tree/main/demo-services/mta-scan)
 
