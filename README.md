@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | Applied AI & ML Systems**
 
-I owned AsklepiosMed from architecture through Linux deployment as pro bono Head Engineer. My ML work includes multilingual LLM workflows, reproducible coding-agent evaluation and controlled GPU inference benchmarks.
+I’m a Machine Learning Engineer specializing in applied AI, LLM applications and ML systems. As Head Engineer, I led architecture and delivery of AsklepiosMed. My work spans multilingual NLP, RL-based agents, reproducible GPU inference evaluation and monitored data services.
 
 [Portfolio](https://stelioszach.com/) · [CV](https://stelioszach.com/cv/) · [LinkedIn](https://www.linkedin.com/in/stelios-zach) · [Contact](mailto:stelios@stelioszach.com)
 
@@ -10,9 +10,9 @@ I owned AsklepiosMed from architecture through Linux deployment as pro bono Head
 
 ### AsklepiosMed — Applied AI and production engineering
 
-Developed and donated a platform for the Paphos Medical Association, owning architecture, React interfaces, Express APIs, PostgreSQL and Linux deployment. **Head Engineer, pro bono: June 2022–July 2026.**
+Led architecture and delivery of a production platform unifying member services, publishing and association administration. Engineered React interfaces, Express APIs and PostgreSQL workflows with role-based access controls; owned application deployment and service operations. **Head Engineer: June 2022–July 2026.**
 
-The current project includes **multilingual NLP workflows** for announcement drafting, email preparation, proofreading, text improvement and Greek-to-English, Russian and Simplified Chinese translation. Structured output validation, terminology checks, fallback behavior, editor review and usage controls support the application. Current capabilities include subsequent development beyond the former role.
+The current project includes **multilingual NLP workflows** for announcement drafting, email preparation, proofreading, text improvement and Greek-to-English, Russian and Simplified Chinese translation. Structured JSON outputs, terminology and integrity checks, bounded retries, fallback handling, editorial review and usage controls support the application. These capabilities describe continued project work after July 2026.
 
 [Engineering case study](https://github.com/stelioszach03/stelioszach-portfolio/blob/main/case-studies/asklepiosmed.md) · [Public platform](https://asklepiosmed.org/)
 
